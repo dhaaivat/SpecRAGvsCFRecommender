@@ -1,0 +1,15 @@
+# data and model artefacts (rebuilt by the notebook's §1 or attached as a Kaggle dataset)
+data/
+ml-25m/
+*.parquet
+*.npy
+*.pkl
+*.zip
+work/
+# environment
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env

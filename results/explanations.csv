@@ -1,0 +1,7 @@
+system,grounded,ooc_rate,ooc_examples
+CF + drafter (single),0.33473276500384935,0.02,"['captain america', 'ocean s twelve', 'the lord of the rings']"
+Spec RAG,0.17615873737373738,0.042,"['back to the future', 'city slickers', 'shutter island', 'sweeney todd', 'the lord of the rings', 'the professional', 'the santa clause 2', 'winnie the pooh']"
+CF + Gemini,0.09506715506715506,0.07252747252747253,"['captain america', 'child s play 2', 'despicable me 3', 'dr dolittle 2', 'ghost in the shell', 'guardians of the galaxy', 'home alone 3', 'home alone 4', 'men in black', 'pitch perfect 2']"
+[CF order] CF + drafter (single),0.32772547621945214,0.024,"['captain america', 'city slickers', 'les misérables', 'mission impossible', 'shutter island', 'the lord of the rings', 'you are not alone']"
+[CF order] Spec RAG,0.17129221056721056,0.034,"['police story', 'the lord of the rings', 'the santa clause 2']"
+[CF order] CF + Gemini,0.09780309559721324,0.083710407239819,"['city of angels', 'despicable me 3', 'die hard 2', 'dr dolittle 2', 'ghost in the shell', 'holmes and watson', 'home alone 4', 'homeward bound', 'jason bourne', 'mission impossible']"
